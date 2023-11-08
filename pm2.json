@@ -1,0 +1,9 @@
+{
+  "name": "svc",
+  "script": "./src/server.js",
+  "watch": false,
+  "env": {
+    "NODE_ENV": "production",
+    "INSTANCES": 3
+  }
+}

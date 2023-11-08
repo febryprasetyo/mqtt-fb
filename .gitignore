@@ -1,0 +1,3 @@
+/.dockerignore
+/fastpec-oms-sdk.json
+/node_modules
